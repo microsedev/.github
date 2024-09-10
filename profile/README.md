@@ -1,9 +1,5 @@
 # Microse: Empowering Africa Through Agile Software Development
 
-[![Build Mobile Apps](https://github.com/arimmadev/microse/actions/workflows/mobile.yml/badge.svg)](https://github.com/arimmadev/microse/actions/workflows/mobile.yml)
-[![Admin Dashboard](https://github.com/arimmadev/microse/actions/workflows/dashboard.yml/badge.svg?branch=main)](https://github.com/arimmadev/microse/actions/workflows/dashboard.yml)
-[![Release Trigger Repo](https://github.com/arimmadev/microse/actions/workflows/actions.release-trigger.yml/badge.svg)](https://github.com/arimmadev/microse/actions/workflows/actions.release-trigger.yml)
- 
 
 Welcome to Microse, a dynamic software development company dedicated to creating innovative applications that address the unique needs of the African continent. As a holding company with a diverse portfolio of projects, we are committed to driving digital transformation and economic growth across Africa.
 
